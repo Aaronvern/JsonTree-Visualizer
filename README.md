@@ -7,7 +7,7 @@ Visualisation tool to help visualise json format in Graph and Tree form.
 Steps to locally setup development after cloning the project.
 
 ```sh
-git clone 
+git clone https://github.com/Aaronvern/jsonTree-visualizer.git
 ```
 
 ### Step 1 - NodeJS
